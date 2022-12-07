@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/ISU-WebDevClub/nodejs-backend-demo#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
